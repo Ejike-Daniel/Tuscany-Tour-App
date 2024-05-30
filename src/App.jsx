@@ -1,7 +1,9 @@
+import Container from "./components/Container";
+
 function App() {
   return (
     <>
-      <h1 className=" font-GreatVibes">Every where you Go</h1>
+      <Container />
     </>
   );
 }
